@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">RUPizzeriaApp</string>
+    <string name="AlertMaxToppings">Maximum number of seven toppings</string>
+    <string name="AlertCannotCustomize">Cannot add toppings to this pizza flavor</string>
+    <string name="AlertSelectSize">Missing Pizza Size</string>
+    <string name="ToastPizzaAdded">Pizza Added to Order</string>
+    <string-array name="flavors">
+        <item>Deluxe</item>
+        <item>BBQ Chicken</item>
+        <item>Meatzza</item>
+        <item>Build Your Own</item>
+    </string-array>
+    <string-array name="toppings">
+        <item>Pepperoni</item>
+        <item>Sausage</item>
+        <item>Ham</item>
+        <item>BBQ Chicken</item>
+        <item>Beef</item>
+        <item>Onion</item>
+        <item>Green Pepper</item>
+        <item>Mushroom</item>
+        <item>Tomatoes</item>
+        <item>Black Olives</item>
+        <item>Provolone</item>
+        <item>Cheddar</item>
+        <item>Parmesan</item>
+    </string-array>
+    <string name="ChicagoMenuTitle">Chicago Style Pizza Menu</string>
+    <string name="NYmenuTitle">New York Style Pizza Menu</string>
+    <string name="ChooseFlavor">Select a pizza flavor</string>
+    <string name="ChooseSize">Select a pizza size</string>
+    <string name="Small">Small</string>
+    <string name="Medium">Medium</string>
+    <string name="Large">Large</string>
+    <string name="AvailibleToppings">Scroll for Availible Toppings: Select to add</string>
+    <string name="SelectedToppings">Selected Toppings: Select to remove</string>
+    <string name="Price">Price</string>
+    <string name="AddPizza">Add To Order</string>
+
+    <string name="currentordertitle">Current Order</string>
+    <string name="OrderNumber">Order Number:</string>
+    <string name="Subtotal">Subtotal: $</string>
+    <string name="SalesTax">SalesTax: $</string>
+    <string name="OrderTotal">Total: $</string>
+    <string name="clear">Clear Order</string>
+    <string name="placeOrder">Place Order</string>
+    <string name="removedPizza">Pizza Removed</string>
+    <string name="emptyOrder">Order is empty</string>
+
+    <string name="StoreOrders">Store Orders Menu</string>
+    <string name="SelectOrder">Select Order Number</string>
+    <string name="RemoveOrder">Remove Order</string>
+    <string name="AlertSelectOrder">Select a Order to Remove</string>
+    <string name="OrderRemoved">Order Removed</string>
+</resources>
